@@ -1,6 +1,8 @@
 # COVID19 Fundamental Knowledge Base
 
 An extremely fundamental knowledge base system which provides a simple diagnosis based on symptoms provided by the user. This was developed in order to delve into pure rule-based artificial intelligence. The symptoms researched at the time of development may not be the same as the symptoms known at the current time. Not intended for actual diagnosis; ony developed for learning purposes.
+<br>
+Done in April, 2020
 
 ## How to run:-
 
